@@ -5,7 +5,9 @@ If anything is missing, feel free to open a pull request!
 
 ## YouTube
 
-### Invidious
+### Web
+
+#### Invidious
 
 Invidious is an alternative front-end to YouTube.
 
@@ -15,7 +17,7 @@ Invidious is an alternative front-end to YouTube.
 | Javascript required? | No 🟢 |
 | API available? | Yes 🟢 |
 
-### Piped
+#### Piped
 
 An alternative privacy-friendly YouTube frontend which is efficient by design. 
 
@@ -24,6 +26,61 @@ An alternative privacy-friendly YouTube frontend which is efficient by design.
 | Instances list | https://github.com/TeamPiped/Piped/wiki/Instances |
 | Javascript required? | Yes 🟥 |
 | API available? | Yes 🟢 |
+
+### Desktop
+
+#### FreeTube
+
+An Open Source YouTube app for privacy
+
+| Repository     | https://github.com/FreeTubeApp/FreeTube |
+| --- | --- |
+| Windows? | Yes 🟢 |
+| macOS? | Yes 🟢 |
+| Linux? | Yes 🟢 |
+
+#### YouTube-Viewer
+
+Lightweight YouTube client for Linux 
+
+| Repository     | https://github.com/trizen/youtube-viewer |
+| --- | --- |
+| Windows? | No 🟥 |
+| macOS? | Yes 🟥 |
+| Linux? | Yes 🟢 |
+
+### Mobile Apps
+
+#### NewPipe
+
+A libre lightweight streaming front-end for Android.
+
+| Repository     | https://github.com/TeamNewPipe/NewPipe |
+| --- | --- |
+| Android? | Yes 🟢 |
+| iOS? | No 🟥 |
+
+<a href="https://f-droid.org/packages/org.schabi.newpipe/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/></a>
+
+#### SkyTube
+
+Copylefted libre / open source YouTube player for Android
+
+| Repository     | https://github.com/SkyTubeTeam/SkyTube |
+| --- | --- |
+| Android? | Yes 🟢 |
+| iOS? | No 🟥 |
+
+<a href="https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/></a>
+
+#### uYouPlus
+
+uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users! 
+
+| Repository     | https://github.com/qnblackcat/uYouPlus |
+| --- | --- |
+| Android? | No 🟥 |
+| iOS? | Yes 🟢 |
 
 
 ## Youtube Music
