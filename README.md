@@ -366,6 +366,50 @@ Web Interface for SimplyTranslate built with python and quart https://simplytran
 | API available? | Yes 🟢 |
 
 
+## Spotify
+
+### Desktop
+
+#### Psst
+
+Fast and multi-platform Spotify client with native GUI 
+
+**A Spotify Premium Account is required**
+
+| Repository     | https://github.com/jpochyla/psst |
+| --- | --- |
+| Windows? | Supported 🟡 |
+| macOS? | Yes 🟢 |
+| Linux? | Supported 🟡 |
+
+#### Spotiqueue
+
+Dead-simple queue-oriented client for Spotify
+
+| Repository     | https://github.com/toothbrush/Spotiqueue |
+| --- | --- |
+| Windows? | No 🟥 |
+| macOS? | Yes 🟢 |
+| Linux? | No 🟥 |
+
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/toothbrush/Spotiqueue/releases/latest)
+
+#### Spot
+
+Native Spotify client for the GNOME desktop
+
+**A Spotify Premium Account is required**
+
+| Repository     | https://github.com/xou816/spot |
+| --- | --- |
+| Windows? | No 🟥 |
+| macOS? | No 🟥 |
+| Linux? | Yes 🟢 |
+
+[<img src="https://flathub.org/assets/badges/flathub-badge-en.png" alt="Download on Flathub">](https://flathub.org/apps/details/dev.alextren.Spot)
+
+
+
 ## TikTok
 
 ### ProxiTok
