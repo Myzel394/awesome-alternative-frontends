@@ -255,5 +255,18 @@ A free open source alternative Wikipedia front-end focused on privacy
 | API available? | No 🟥 |
 
 
+## Odysee
+
+### Librarian
+
+An alternative frontend for LBRY/Odysee.
+
+| Repository     | https://codeberg.org/librarian/librarian |
+| --- | --- |
+| Instances list | https://codeberg.org/librarian/librarian#instances |
+| Javascript required? | Yes 🟥 for video playing; No 🟢 for everything else |
+| API available? | No 🟥 |
+
+
 
 more following (just wanted to make a general layout)...
