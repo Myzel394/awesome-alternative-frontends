@@ -291,7 +291,6 @@ A privacy-friendly Twitter frontend for mobile devices
      alt="Get it on Google Play"
      height="80">](https://play.google.com/store/apps/details?id=com.jonjomckay.fritter) [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.jonjomckay.fritter/) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/jonjomckay/fritter/releases/latest)
 
-
 #### Shitter
 
 Lightweight Twitter app for Android
@@ -302,7 +301,6 @@ Lightweight Twitter app for Android
 | iOS? | No 🟥 |
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://github.com/nuclearfog/Shitter/releases/latest)
-
 
 
 ## Instagram
@@ -392,8 +390,6 @@ Dead-simple queue-oriented client for Spotify
 | macOS? | Yes 🟢 |
 | Linux? | No 🟥 |
 
-[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/toothbrush/Spotiqueue/releases/latest)
-
 #### Spot
 
 Native Spotify client for the GNOME desktop
@@ -406,7 +402,7 @@ Native Spotify client for the GNOME desktop
 | macOS? | No 🟥 |
 | Linux? | Yes 🟢 |
 
-[<img src="https://flathub.org/assets/badges/flathub-badge-en.png" alt="Download on Flathub">](https://flathub.org/apps/details/dev.alextren.Spot)
+[<img src="https://flathub.org/assets/badges/flathub-badge-en.png" alt="Download on Flathub" height="80">](https://flathub.org/apps/details/dev.alextren.Spot)
 
 
 
