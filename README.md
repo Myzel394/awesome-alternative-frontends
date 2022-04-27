@@ -1,5 +1,6 @@
 # awesome-alternative-frontends
 A curated list of awesome alternative, privacy-friendly frontends.
+Note that this list also contains frontends that are not focused on privacy.
 
 If anything is missing, feel free to open a pull request!
 
