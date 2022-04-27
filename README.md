@@ -320,7 +320,9 @@ An alternative front-end for Instagram.
 
 ## Google
 
-### Whoogle
+### Web
+
+#### Whoogle
 
 A self-hosted, ad-free, privacy-respecting metasearch engine
 
@@ -330,7 +332,7 @@ A self-hosted, ad-free, privacy-respecting metasearch engine
 | Javascript required? | 🟢 No |
 | API available? | 🟥 No |
 
-### LibreX
+#### LibreX
 
 A privacy respecting free as in freedom meta search engine 
 
@@ -343,7 +345,9 @@ A privacy respecting free as in freedom meta search engine
 
 ## Google Translate
 
-### Lingva
+### Web
+
+#### Lingva
 
 Alternative front-end for Google Translate 
 
@@ -353,7 +357,7 @@ Alternative front-end for Google Translate
 | Javascript required? | 🟥 Yes |
 | API available? | 🟢 Yes |
 
-### SimplyTranslate
+#### SimplyTranslate
 
 Web Interface for SimplyTranslate built with python and quart https://simplytranslate.org
 
@@ -408,7 +412,9 @@ Native Spotify client for the GNOME desktop
 
 ## TikTok
 
-### ProxiTok
+### Web
+
+#### ProxiTok
 
 Open source alternative frontend for TikTok made using PHP 
 
@@ -421,7 +427,9 @@ Open source alternative frontend for TikTok made using PHP
 
 ## Imgur
 
-### Rimgo
+### Web
+
+#### Rimgo
 
 Self-hosted frontend for imgur. Rewritten in Go. https://i.bcow.xyz
 
@@ -431,7 +439,7 @@ Self-hosted frontend for imgur. Rewritten in Go. https://i.bcow.xyz
 | Javascript required? | 🟢 No |
 | API available? | 🟥 No |
 
-### Rimgu
+#### Rimgu
 
 Self-hosted frontend for imgur
 
@@ -441,7 +449,7 @@ Self-hosted frontend for imgur
 | Javascript required? | 🟢 No |
 | API available? | 🟢 Yes |
 
-### Rimgu
+#### Rimgu
 
 Self-hosted frontend for imgur
 
@@ -451,7 +459,7 @@ Self-hosted frontend for imgur
 | Javascript required? | 🟢 No |
 | API available? | 🟥 No |
 
-### Omgur
+#### Omgur
 
 Private front-end for Imgur
 
@@ -461,7 +469,7 @@ Private front-end for Imgur
 | Javascript required? | 🟢 No |
 | API available? | 🟥 No (Included in it's roadmap, https://git.geraldwu.com/gerald/omgur#far-future-roadmap) |
 
-### Imgrs
+#### Imgrs
 
 Private front-end for Imgur
 
@@ -474,7 +482,9 @@ Private front-end for Imgur
 
 ## Mastodon
 
-### Pinafore
+### Web
+
+#### Pinafore
 
 Alternative web client for Mastodon 
 
@@ -487,7 +497,9 @@ Alternative web client for Mastodon
 
 ## Medium
 
-### Scribe
+### Web
+
+#### Scribe
 
 An Alternative Medium Frontend
 
@@ -500,7 +512,9 @@ An Alternative Medium Frontend
 
 ## Reuters
 
-### Neuters
+### Web
+
+#### Neuters
 
 Reuters Redirect and Proxy 
 
@@ -513,7 +527,9 @@ Reuters Redirect and Proxy
 
 ## Wikipedia
 
-### Wikiless
+### Web
+
+#### Wikiless
 
 A free open source alternative Wikipedia front-end focused on privacy
 
@@ -526,7 +542,9 @@ A free open source alternative Wikipedia front-end focused on privacy
 
 ## Odysee
 
-### Librarian
+### Web
+
+#### Librarian
 
 An alternative frontend for LBRY/Odysee.
 
@@ -538,4 +556,4 @@ An alternative frontend for LBRY/Odysee.
 
 
 
-more following (just wanted to make a general layout)...
+more following...
