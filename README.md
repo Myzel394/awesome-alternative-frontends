@@ -367,6 +367,60 @@ Web Interface for SimplyTranslate built with python and quart https://simplytran
 | Javascript required? | 🟥 Yes |
 | API available? | 🟢 Yes |
 
+### Desktop
+
+#### Crow Translate
+
+A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
+
+| Repository     | https://github.com/crow-translate/crow-translate |
+| --- | --- |
+| Windows? | 🟢 Yes |
+| macOS? | 🟥 No |
+| Linux? | 🟢 Yes |
+
+### Mobile
+
+### InstaLate
+
+Online dictionary - Translate content directly in your apps
+
+**InstaLate supports multiple translation providers such as SimplyTranslate, DeepL, Dict.cc, Linguee and many more. [See here for a list of all supported providers](https://gitlab.com/concept1tech/instalate#thanks)**
+
+| Repository     | https://gitlab.com/concept1tech/instalate |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/en/packages/com.concept1tech.instalate/) [<img alt="Direct APK Download" height="80" src="https://tachibanagenerallaboratories.github.io/images/badges/Direct%20Download/direct-apk-download.png">](https://gitlab.com/concept1tech/instalate/-/releases)
+
+#### SimplyTranslate Mobile
+
+An alternative front-end to GoogleTranslate 
+
+| Repository     | https://github.com/ManeraKai/simplytranslate_mobile |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
+
+
+## DeepL
+
+### Mobile
+
+#### DeepL Android
+
+Unofficial Android App for DeepL Translator 
+
+| Repository     | https://github.com/sakusaku3939/DeepLAndroid |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.example.deeplviewer) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/sakusaku3939/DeepLAndroid/releases/latest)
+
 
 ## Spotify
 
@@ -407,7 +461,6 @@ Native Spotify client for the GNOME desktop
 | Linux? | 🟢 Yes |
 
 [<img src="https://flathub.org/assets/badges/flathub-badge-en.png" alt="Download on Flathub" height="80">](https://flathub.org/apps/details/dev.alextren.Spot)
-
 
 
 ## TikTok
@@ -478,6 +531,36 @@ Private front-end for Imgur
 | Instances list | 🟥 Not available |
 | Javascript required? | 🟢 No |
 | API available? | 🟥 No (Included in it's roadmap, https://git.geraldwu.com/gerald/imgrs#far-future-roadmap) |
+
+
+## Facebook
+
+### Mobile
+
+#### Frost
+
+An extensive and functional third party app for Facebook 
+
+| Repository     | https://github.com/AllanWang/Frost-for-Facebook |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.pitchedapps.frost) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/AllanWang/Frost-for-Facebook/releases/latest)
+
+
+## Telegram
+
+### Telegram-FOSS
+
+Unofficial, FOSS-friendly fork of the original Telegram client for Android 
+
+| Repository     | https://github.com/Telegram-FOSS-Team/Telegram-FOSS |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/app/org.telegram.messenger) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/Telegram-FOSS-Team/Telegram-FOSS/releases/latest)
 
 
 ## Mastodon
@@ -556,4 +639,6 @@ An alternative frontend for LBRY/Odysee.
 
 
 
-more following...
+# Add a new instance
+
+Open a Pull Request or an Issue and follow the template. Only add instances that are actively supported and easy for non-tech people to install (imagine  explaining your parents how to install your instance).
