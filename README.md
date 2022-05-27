@@ -89,6 +89,16 @@ A privacy respecting free as in freedom meta search engine
 | Javascript required? | 🟢 No |
 | API available? | 🟢 Yes |
 
+#### SearXNG
+
+SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. 
+
+| Repository     | https://github.com/searxng/searxng |
+| --- | --- |
+| Instances list | https://searx.space |
+| Javascript required? | 🟢 No |
+| API available? | 🟢 Yes |
+
 
 
 
