@@ -9,7 +9,7 @@ If anything is missing, feel free to open a pull request!
 
 * [DeepL](#deepl)
 * [Google](#google)
-* [Google Translate](#google_translate)
+* [Google Translate](#google-translate)
 * [Facebook](#facebook)
 * [Imgur](#imgur)
 * [Instagram](#instagram)
@@ -24,7 +24,7 @@ If anything is missing, feel free to open a pull request!
 * [Twitter](#twitter)
 * [Wikipedia](#wikipedia)
 * [Youtube](#youtube)
-* [Youtube Music](#youtube_music)
+* [Youtube Music](#youtube-music)
 
 
 
