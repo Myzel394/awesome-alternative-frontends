@@ -8,9 +8,9 @@ If anything is missing, feel free to open a pull request!
 # Table of Contents
 
 * [DeepL](#deepl)
+* [Facebook](#facebook)
 * [Google](#google)
 * [Google Translate](#google-translate)
-* [Facebook](#facebook)
 * [Imgur](#imgur)
 * [Instagram](#instagram)
 * [Mastodon](#mastodon)
@@ -43,6 +43,24 @@ Unofficial Android App for DeepL Translator
 | iOS? | 🟥 No |
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.example.deeplviewer) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/sakusaku3939/DeepLAndroid/releases/latest)
+
+
+
+
+## Facebook
+
+### Mobile
+
+#### Frost
+
+An extensive and functional third party app for Facebook 
+
+| Repository     | https://github.com/AllanWang/Frost-for-Facebook |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.pitchedapps.frost) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/AllanWang/Frost-for-Facebook/releases/latest)
 
 
 
@@ -135,24 +153,6 @@ An alternative front-end to GoogleTranslate
 | iOS? | 🟥 No |
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
-
-
-
-
-## Facebook
-
-### Mobile
-
-#### Frost
-
-An extensive and functional third party app for Facebook 
-
-| Repository     | https://github.com/AllanWang/Frost-for-Facebook |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.pitchedapps.frost) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/AllanWang/Frost-for-Facebook/releases/latest)
 
 
 
