@@ -4,6 +4,513 @@ Note that this list also contains frontends that are not focused on privacy.
 
 If anything is missing, feel free to open a pull request!
 
+
+# Table of Contents
+
+* [DeepL](#deepl)
+* [Google](#google)
+* [Google Translate](#google_translate)
+* [Facebook](#facebook)
+* [Imgur](#imgur)
+* [Instagram](#instagram)
+* [Mastodon](#mastodon)
+* [Medium](#medium)
+* [Odysee](#odysee)
+* [Reddit](#reddit)
+* [Reuters](#reuters)
+* [Spotify](#spotify)
+* [Telegram](#telegram)
+* [TikTok](#tiktok)
+* [Twitter](#twitter)
+* [Wikipedia](#wikipedia)
+* [Youtube](#youtube)
+* [Youtube Music](#youtube_music)
+
+
+
+
+## DeepL
+
+### Mobile
+
+#### DeepL Android
+
+Unofficial Android App for DeepL Translator 
+
+| Repository     | https://github.com/sakusaku3939/DeepLAndroid |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.example.deeplviewer) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/sakusaku3939/DeepLAndroid/releases/latest)
+
+
+
+
+## Google
+
+### Web
+
+#### Whoogle
+
+A self-hosted, ad-free, privacy-respecting metasearch engine
+
+| Repository     | https://github.com/benbusby/whoogle-search |
+| --- | --- |
+| Instances list | https://github.com/benbusby/whoogle-search#public-instances= |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
+#### LibreX
+
+A privacy respecting free as in freedom meta search engine 
+
+| Repository     | https://github.com/hnhx/librex |
+| --- | --- |
+| Instances list | https://github.com/hnhx/librex#online-instances= |
+| Javascript required? | 🟢 No |
+| API available? | 🟢 Yes |
+
+
+
+
+## Google Translate
+
+### Web
+
+#### Lingva
+
+Alternative front-end for Google Translate 
+
+| Repository     | https://github.com/TheDavidDelta/lingva-translate |
+| --- | --- |
+| Instances list | https://github.com/TheDavidDelta/lingva-translate#instances=|
+| Javascript required? | 🟥 Yes |
+| API available? | 🟢 Yes |
+
+#### SimplyTranslate
+
+Web Interface for SimplyTranslate built with python and quart https://simplytranslate.org
+
+| Repository     | https://codeberg.org/SimpleWeb/SimplyTranslate-Web |
+| --- | --- |
+| Instances list | https://simple-web.org/projects/simplytranslate.html |
+| Javascript required? | 🟥 Yes |
+| API available? | 🟢 Yes |
+
+### Desktop
+
+#### Crow Translate
+
+A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
+
+| Repository     | https://github.com/crow-translate/crow-translate |
+| --- | --- |
+| Windows? | 🟢 Yes |
+| macOS? | 🟥 No |
+| Linux? | 🟢 Yes |
+
+### Mobile
+
+### InstaLate
+
+Online dictionary - Translate content directly in your apps
+
+**InstaLate supports multiple translation providers such as SimplyTranslate, DeepL, Dict.cc, Linguee and many more. [See here for a list of all supported providers](https://gitlab.com/concept1tech/instalate#thanks)**
+
+| Repository     | https://gitlab.com/concept1tech/instalate |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/en/packages/com.concept1tech.instalate/) [<img alt="Direct APK Download" height="80" src="https://tachibanagenerallaboratories.github.io/images/badges/Direct%20Download/direct-apk-download.png">](https://gitlab.com/concept1tech/instalate/-/releases)
+
+#### SimplyTranslate Mobile
+
+An alternative front-end to GoogleTranslate 
+
+| Repository     | https://github.com/ManeraKai/simplytranslate_mobile |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
+
+
+
+
+## Facebook
+
+### Mobile
+
+#### Frost
+
+An extensive and functional third party app for Facebook 
+
+| Repository     | https://github.com/AllanWang/Frost-for-Facebook |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.pitchedapps.frost) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/AllanWang/Frost-for-Facebook/releases/latest)
+
+
+
+
+## Imgur
+
+### Web
+
+#### Rimgo
+
+Self-hosted frontend for imgur. Rewritten in Go. https://i.bcow.xyz
+
+| Repository     | https://codeberg.org/video-prize-ranch/rimgo |
+| --- | --- |
+| Instances list | https://codeberg.org/video-prize-ranch/rimgo#instances |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
+#### Rimgu
+
+Self-hosted frontend for imgur
+
+| Repository     | https://codeberg.org/3np/rimgu |
+| --- | --- |
+| Instances list | 🟥 Not available |
+| Javascript required? | 🟢 No |
+| API available? | 🟢 Yes |
+
+#### Rimgu
+
+Self-hosted frontend for imgur
+
+| Repository     | https://codeberg.org/3np/rimgu |
+| --- | --- |
+| Instances list | 🟥 Not available |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
+#### Omgur
+
+Private front-end for Imgur
+
+| Repository     | https://git.geraldwu.com/gerald/omgur |
+| --- | --- |
+| Instances list | 🟥 Not available |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No (Included in it's roadmap, https://git.geraldwu.com/gerald/omgur#far-future-roadmap) |
+
+#### Imgrs
+
+Private front-end for Imgur
+
+| Repository     | https://git.geraldwu.com/gerald/imgrs |
+| --- | --- |
+| Instances list | 🟥 Not available |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No (Included in it's roadmap, https://git.geraldwu.com/gerald/imgrs#far-future-roadmap) |
+
+
+
+
+## Instagram
+
+**Instagram is known to aggresively block alternative frontends. Please help the community by hosting your own service**
+
+### Bibliogram
+
+An alternative front-end for Instagram.
+
+| Repository     | https://sr.ht/~cadence/bibliogram/ |
+| --- | --- |
+| Instances list | https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
+
+
+
+## Mastodon
+
+### Web
+
+#### Pinafore
+
+Alternative web client for Mastodon 
+
+| Repository     | https://github.com/nolanlawson/pinafore |
+| --- | --- |
+| Instances list | 🟥 Not available |
+| Javascript required? | 🟥 Yes |
+| API available? | 🟥 No |
+
+
+
+
+## Medium
+
+### Web
+
+#### Scribe
+
+An Alternative Medium Frontend
+
+| Repository     | https://sr.ht/~edwardloveall/scribe/ |
+| --- | --- |
+| Instances list | 🟥 Not available |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
+
+
+
+## Odysee
+
+### Web
+
+#### Librarian
+
+An alternative frontend for LBRY/Odysee.
+
+| Repository     | https://codeberg.org/librarian/librarian |
+| --- | --- |
+| Instances list | https://codeberg.org/librarian/librarian#instances |
+| Javascript required? | 🟥 Yes for video playing; 🟢 No for everything else |
+| API available? | 🟥 No |
+
+
+
+
+## Reddit
+
+### Web
+
+#### Libreddit
+
+Private front-end for Reddit
+
+| Repository     | https://github.com/spikecodes/libreddit |
+| --- | --- |
+| Instances list | https://github.com/spikecodes/libreddit#instances= |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
+#### Teddit
+
+alternative Reddit front-end focused on privacy https://teddit.net
+
+| Repository     | https://codeberg.org/teddit/teddit |
+| --- | --- |
+| Instances list | https://codeberg.org/teddit/teddit#instances |
+| Javascript required? | 🟢 No |
+| API available? | Yes 🟡 (Unofficial) |
+
+#### Troddit
+
+A web client for Reddit with authenticated logins and a variety of browsing options 
+
+| Repository     | https://github.com/burhan-syed/troddit |
+| --- | --- |
+| Instances list | https://github.com/teddit-net/teddit#instances= |
+| Javascript required? | 🟥 Yes |
+| API available? | 🟥 No |
+
+### Mobile
+
+#### Stealth
+
+Stealth is an account-free, privacy-oriented, and feature-rich Reddit client.
+
+| Repository     | https://gitlab.com/cosmosapps/stealth |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+  [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.cosmos.unreddit/)
+
+#### Infinity
+
+A Reddit client for Android
+
+| Repository     | https://github.com/Docile-Alligator/Infinity-For-Reddit |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+ [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/latest)
+
+#### Dawn
+
+Here lives the greatest open-source Reddit app 
+
+| Repository     | https://github.com/Tunous/Dawn |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+ [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">](https://play.google.com/store/apps/details?id=me.thanel.dank) [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/en/packages/me.thanel.dank) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/Tunous/Dawn/releases/latest)
+
+
+
+
+## Reuters
+
+### Web
+
+#### Neuters
+
+Reuters Redirect and Proxy 
+
+| Repository     | https://github.com/HookedBehemoth/neuters |
+| --- | --- |
+| Instances list | 🟥 Not available |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
+
+
+
+## Spotify
+
+### Desktop
+
+#### Psst
+
+Fast and multi-platform Spotify client with native GUI 
+
+**A Spotify Premium Account is required**
+
+| Repository     | https://github.com/jpochyla/psst |
+| --- | --- |
+| Windows? | Supported 🟡 |
+| macOS? | 🟢 Yes |
+| Linux? | Supported 🟡 |
+
+#### Spotiqueue
+
+Dead-simple queue-oriented client for Spotify
+
+| Repository     | https://github.com/toothbrush/Spotiqueue |
+| --- | --- |
+| Windows? | 🟥 No |
+| macOS? | 🟢 Yes |
+| Linux? | 🟥 No |
+
+#### Spot
+
+Native Spotify client for the GNOME desktop
+
+**A Spotify Premium Account is required**
+
+| Repository     | https://github.com/xou816/spot |
+| --- | --- |
+| Windows? | 🟥 No |
+| macOS? | 🟥 No |
+| Linux? | 🟢 Yes |
+
+[<img src="https://flathub.org/assets/badges/flathub-badge-en.png" alt="Download on Flathub" height="80">](https://flathub.org/apps/details/dev.alextren.Spot)
+
+
+
+
+## Telegram
+
+### Telegram-FOSS
+
+Unofficial, FOSS-friendly fork of the original Telegram client for Android 
+
+| Repository     | https://github.com/Telegram-FOSS-Team/Telegram-FOSS |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/app/org.telegram.messenger) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/Telegram-FOSS-Team/Telegram-FOSS/releases/latest)
+
+
+
+
+## TikTok
+
+### Web
+
+#### ProxiTok
+
+Open source alternative frontend for TikTok made using PHP 
+
+| Repository     | https://github.com/pablouser1/ProxiTok |
+| --- | --- |
+| Instances list | https://github.com/pablouser1/ProxiTok/wiki/Public-instances |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
+
+
+
+## Twitter
+
+### Web
+
+#### Nitter
+
+Alternative Twitter front-end
+
+| Repository     | https://github.com/zedeus/nitter |
+| --- | --- |
+| Instances list | https://github.com/zedeus/nitter/wiki/Instances |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No (Included in it's roadmap, https://github.com/zedeus/nitter#roadmap=)  |
+
+### Mobile
+
+#### Fritter
+
+A privacy-friendly Twitter frontend for mobile devices
+
+| Repository     | https://github.com/jonjomckay/fritter |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+ [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">](https://play.google.com/store/apps/details?id=com.jonjomckay.fritter) [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.jonjomckay.fritter/) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/jonjomckay/fritter/releases/latest)
+
+#### Shitter
+
+Lightweight Twitter app for Android
+
+| Repository     | https://github.com/nuclearfog/Shitter |
+| --- | --- |
+| Android? | 🟢 Yes |
+| iOS? | 🟥 No |
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://github.com/nuclearfog/Shitter/releases/latest)
+
+
+
+
+## Wikipedia
+
+### Web
+
+#### Wikiless
+
+A free open source alternative Wikipedia front-end focused on privacy
+
+| Repository     | https://codeberg.org/orenom/wikiless |
+| --- | --- |
+| Instances list | https://codeberg.org/orenom/wikiless#instances |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
+
+
+
 ## YouTube
 
 ### Web
@@ -147,6 +654,8 @@ Alternative YouTube frontend for iOS (iPhone, iPad), macOS and tvOS (Apple TV) b
 | tvOS? | 🟢 Yes |
 
 
+
+
 ## Youtube Music
 
 ### Web
@@ -188,455 +697,6 @@ A Music Player App made with Flutter
 
   [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.shadow.blackhole/) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/Sangwan5688/BlackHole/releases/latest)
 
-
-## Reddit
-
-### Web
-
-#### Libreddit
-
-Private front-end for Reddit
-
-| Repository     | https://github.com/spikecodes/libreddit |
-| --- | --- |
-| Instances list | https://github.com/spikecodes/libreddit#instances= |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No |
-
-#### Teddit
-
-alternative Reddit front-end focused on privacy https://teddit.net
-
-| Repository     | https://codeberg.org/teddit/teddit |
-| --- | --- |
-| Instances list | https://codeberg.org/teddit/teddit#instances |
-| Javascript required? | 🟢 No |
-| API available? | Yes 🟡 (Unofficial) |
-
-#### Troddit
-
-A web client for Reddit with authenticated logins and a variety of browsing options 
-
-| Repository     | https://github.com/burhan-syed/troddit |
-| --- | --- |
-| Instances list | https://github.com/teddit-net/teddit#instances= |
-| Javascript required? | 🟥 Yes |
-| API available? | 🟥 No |
-
-### Mobile
-
-#### Stealth
-
-Stealth is an account-free, privacy-oriented, and feature-rich Reddit client.
-
-| Repository     | https://gitlab.com/cosmosapps/stealth |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
-  [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.cosmos.unreddit/)
-
-#### Infinity
-
-A Reddit client for Android
-
-| Repository     | https://github.com/Docile-Alligator/Infinity-For-Reddit |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
- [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/Docile-Alligator/Infinity-For-Reddit/releases/latest)
-
-#### Dawn
-
-Here lives the greatest open-source Reddit app 
-
-| Repository     | https://github.com/Tunous/Dawn |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
- [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=me.thanel.dank) [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/en/packages/me.thanel.dank) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/Tunous/Dawn/releases/latest)
-
-
-## Twitter
-
-### Web
-
-#### Nitter
-
-Alternative Twitter front-end
-
-| Repository     | https://github.com/zedeus/nitter |
-| --- | --- |
-| Instances list | https://github.com/zedeus/nitter/wiki/Instances |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No (Included in it's roadmap, https://github.com/zedeus/nitter#roadmap=)  |
-
-### Mobile
-
-#### Fritter
-
-A privacy-friendly Twitter frontend for mobile devices
-
-| Repository     | https://github.com/jonjomckay/fritter |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
- [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=com.jonjomckay.fritter) [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.jonjomckay.fritter/) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/jonjomckay/fritter/releases/latest)
-
-#### Shitter
-
-Lightweight Twitter app for Android
-
-| Repository     | https://github.com/nuclearfog/Shitter |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://github.com/nuclearfog/Shitter/releases/latest)
-
-
-## Instagram
-
-**Instagram is known to aggresively block alternative frontends. Please help the community by hosting your own service**
-
-### Bibliogram
-
-An alternative front-end for Instagram.
-
-| Repository     | https://sr.ht/~cadence/bibliogram/ |
-| --- | --- |
-| Instances list | https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No |
-
-
-## Google
-
-### Web
-
-#### Whoogle
-
-A self-hosted, ad-free, privacy-respecting metasearch engine
-
-| Repository     | https://github.com/benbusby/whoogle-search |
-| --- | --- |
-| Instances list | https://github.com/benbusby/whoogle-search#public-instances= |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No |
-
-#### LibreX
-
-A privacy respecting free as in freedom meta search engine 
-
-| Repository     | https://github.com/hnhx/librex |
-| --- | --- |
-| Instances list | https://github.com/hnhx/librex#online-instances= |
-| Javascript required? | 🟢 No |
-| API available? | 🟢 Yes |
-
-
-## Google Translate
-
-### Web
-
-#### Lingva
-
-Alternative front-end for Google Translate 
-
-| Repository     | https://github.com/TheDavidDelta/lingva-translate |
-| --- | --- |
-| Instances list | https://github.com/TheDavidDelta/lingva-translate#instances=|
-| Javascript required? | 🟥 Yes |
-| API available? | 🟢 Yes |
-
-#### SimplyTranslate
-
-Web Interface for SimplyTranslate built with python and quart https://simplytranslate.org
-
-| Repository     | https://codeberg.org/SimpleWeb/SimplyTranslate-Web |
-| --- | --- |
-| Instances list | https://simple-web.org/projects/simplytranslate.html |
-| Javascript required? | 🟥 Yes |
-| API available? | 🟢 Yes |
-
-### Desktop
-
-#### Crow Translate
-
-A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
-
-| Repository     | https://github.com/crow-translate/crow-translate |
-| --- | --- |
-| Windows? | 🟢 Yes |
-| macOS? | 🟥 No |
-| Linux? | 🟢 Yes |
-
-### Mobile
-
-### InstaLate
-
-Online dictionary - Translate content directly in your apps
-
-**InstaLate supports multiple translation providers such as SimplyTranslate, DeepL, Dict.cc, Linguee and many more. [See here for a list of all supported providers](https://gitlab.com/concept1tech/instalate#thanks)**
-
-| Repository     | https://gitlab.com/concept1tech/instalate |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/en/packages/com.concept1tech.instalate/) [<img alt="Direct APK Download" height="80" src="https://tachibanagenerallaboratories.github.io/images/badges/Direct%20Download/direct-apk-download.png">](https://gitlab.com/concept1tech/instalate/-/releases)
-
-#### SimplyTranslate Mobile
-
-An alternative front-end to GoogleTranslate 
-
-| Repository     | https://github.com/ManeraKai/simplytranslate_mobile |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
-
-
-## DeepL
-
-### Mobile
-
-#### DeepL Android
-
-Unofficial Android App for DeepL Translator 
-
-| Repository     | https://github.com/sakusaku3939/DeepLAndroid |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.example.deeplviewer) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/sakusaku3939/DeepLAndroid/releases/latest)
-
-
-## Spotify
-
-### Desktop
-
-#### Psst
-
-Fast and multi-platform Spotify client with native GUI 
-
-**A Spotify Premium Account is required**
-
-| Repository     | https://github.com/jpochyla/psst |
-| --- | --- |
-| Windows? | Supported 🟡 |
-| macOS? | 🟢 Yes |
-| Linux? | Supported 🟡 |
-
-#### Spotiqueue
-
-Dead-simple queue-oriented client for Spotify
-
-| Repository     | https://github.com/toothbrush/Spotiqueue |
-| --- | --- |
-| Windows? | 🟥 No |
-| macOS? | 🟢 Yes |
-| Linux? | 🟥 No |
-
-#### Spot
-
-Native Spotify client for the GNOME desktop
-
-**A Spotify Premium Account is required**
-
-| Repository     | https://github.com/xou816/spot |
-| --- | --- |
-| Windows? | 🟥 No |
-| macOS? | 🟥 No |
-| Linux? | 🟢 Yes |
-
-[<img src="https://flathub.org/assets/badges/flathub-badge-en.png" alt="Download on Flathub" height="80">](https://flathub.org/apps/details/dev.alextren.Spot)
-
-
-## TikTok
-
-### Web
-
-#### ProxiTok
-
-Open source alternative frontend for TikTok made using PHP 
-
-| Repository     | https://github.com/pablouser1/ProxiTok |
-| --- | --- |
-| Instances list | https://github.com/pablouser1/ProxiTok/wiki/Public-instances |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No |
-
-
-## Imgur
-
-### Web
-
-#### Rimgo
-
-Self-hosted frontend for imgur. Rewritten in Go. https://i.bcow.xyz
-
-| Repository     | https://codeberg.org/video-prize-ranch/rimgo |
-| --- | --- |
-| Instances list | https://codeberg.org/video-prize-ranch/rimgo#instances |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No |
-
-#### Rimgu
-
-Self-hosted frontend for imgur
-
-| Repository     | https://codeberg.org/3np/rimgu |
-| --- | --- |
-| Instances list | 🟥 Not available |
-| Javascript required? | 🟢 No |
-| API available? | 🟢 Yes |
-
-#### Rimgu
-
-Self-hosted frontend for imgur
-
-| Repository     | https://codeberg.org/3np/rimgu |
-| --- | --- |
-| Instances list | 🟥 Not available |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No |
-
-#### Omgur
-
-Private front-end for Imgur
-
-| Repository     | https://git.geraldwu.com/gerald/omgur |
-| --- | --- |
-| Instances list | 🟥 Not available |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No (Included in it's roadmap, https://git.geraldwu.com/gerald/omgur#far-future-roadmap) |
-
-#### Imgrs
-
-Private front-end for Imgur
-
-| Repository     | https://git.geraldwu.com/gerald/imgrs |
-| --- | --- |
-| Instances list | 🟥 Not available |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No (Included in it's roadmap, https://git.geraldwu.com/gerald/imgrs#far-future-roadmap) |
-
-
-## Facebook
-
-### Mobile
-
-#### Frost
-
-An extensive and functional third party app for Facebook 
-
-| Repository     | https://github.com/AllanWang/Frost-for-Facebook |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/packages/com.pitchedapps.frost) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/AllanWang/Frost-for-Facebook/releases/latest)
-
-
-## Telegram
-
-### Telegram-FOSS
-
-Unofficial, FOSS-friendly fork of the original Telegram client for Android 
-
-| Repository     | https://github.com/Telegram-FOSS-Team/Telegram-FOSS |
-| --- | --- |
-| Android? | 🟢 Yes |
-| iOS? | 🟥 No |
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/>](https://f-droid.org/app/org.telegram.messenger) [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/Telegram-FOSS-Team/Telegram-FOSS/releases/latest)
-
-
-## Mastodon
-
-### Web
-
-#### Pinafore
-
-Alternative web client for Mastodon 
-
-| Repository     | https://github.com/nolanlawson/pinafore |
-| --- | --- |
-| Instances list | 🟥 Not available |
-| Javascript required? | 🟥 Yes |
-| API available? | 🟥 No |
-
-
-## Medium
-
-### Web
-
-#### Scribe
-
-An Alternative Medium Frontend
-
-| Repository     | https://sr.ht/~edwardloveall/scribe/ |
-| --- | --- |
-| Instances list | 🟥 Not available |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No |
-
-
-## Reuters
-
-### Web
-
-#### Neuters
-
-Reuters Redirect and Proxy 
-
-| Repository     | https://github.com/HookedBehemoth/neuters |
-| --- | --- |
-| Instances list | 🟥 Not available |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No |
-
-
-## Wikipedia
-
-### Web
-
-#### Wikiless
-
-A free open source alternative Wikipedia front-end focused on privacy
-
-| Repository     | https://codeberg.org/orenom/wikiless |
-| --- | --- |
-| Instances list | https://codeberg.org/orenom/wikiless#instances |
-| Javascript required? | 🟢 No |
-| API available? | 🟥 No |
-
-
-## Odysee
-
-### Web
-
-#### Librarian
-
-An alternative frontend for LBRY/Odysee.
-
-| Repository     | https://codeberg.org/librarian/librarian |
-| --- | --- |
-| Instances list | https://codeberg.org/librarian/librarian#instances |
-| Javascript required? | 🟥 Yes for video playing; 🟢 No for everything else |
-| API available? | 🟥 No |
 
 
 
