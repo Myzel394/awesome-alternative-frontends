@@ -232,6 +232,8 @@ Private front-end for Imgur
 
 An alternative front-end for Instagram.
 
+**Bibliogram has been discontinued. Use at your own risk.**
+
 | Repository     | https://sr.ht/~cadence/bibliogram/ |
 | --- | --- |
 | Instances list | https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md |
