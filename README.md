@@ -19,6 +19,7 @@ If anything is missing, feel free to open a pull request!
 * [Reddit](#reddit)
 * [Reuters](#reuters)
 * [Spotify](#spotify)
+* [StackOverflow](#stackoverflow)
 * [Telegram](#telegram)
 * [TikTok](#tiktok)
 * [Twitter](#twitter)
@@ -298,15 +299,19 @@ An alternative frontend for LBRY/Odysee.
 
 ### Web
 
-#### Libreddit
+#### Redlib
 
 Private front-end for Reddit
 
-| Repository     | https://github.com/spikecodes/libreddit |
+| Repository     | https://github.com/redlib-org/redlib |
 | --- | --- |
-| Instances list | https://github.com/spikecodes/libreddit#instances= |
+| Instances list | https://stats.uptimerobot.com/mpmqAs1G2Q |
 | Javascript required? | 🟢 No |
 | API available? | 🟥 No |
+
+#### Libreddit
+
+**Libreddit has been discontinued. Use [Redlib](#redlib) instead.**
 
 #### Teddit
 
@@ -426,6 +431,23 @@ Native Spotify client for the GNOME desktop
 | Linux? | 🟢 Yes |
 
 [<img src="https://flathub.org/assets/badges/flathub-badge-en.png" alt="Download on Flathub" height="80">](https://flathub.org/apps/details/dev.alextren.Spot)
+
+
+
+
+## StackOverflow
+
+### Web
+
+#### AnonymousOverflow
+
+View StackOverflow in privacy and without the clutter.
+
+| Repository     | https://github.com/httpjamesm/AnonymousOverflow |
+| --- | --- |
+| Instances list | https://github.com/httpjamesm/AnonymousOverflow?tab=readme-ov-file#clearnet-instances |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
 
 
 
