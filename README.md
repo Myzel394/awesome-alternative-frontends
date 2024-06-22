@@ -70,6 +70,16 @@ An extensive and functional third party app for Facebook
 
 ### Web
 
+#### 4get
+
+4get is a proxy search engine that doesn't suck
+
+| Repository     | https://git.lolcat.ca/lolcat/4get |
+| --- | --- |
+| Instances list | https://4get.ca/instances |
+| Javascript required? | 🟢 No |
+| API available? | 🟥 No |
+
 #### Whoogle
 
 A self-hosted, ad-free, privacy-respecting metasearch engine
